@@ -6,7 +6,7 @@ slug: /exchange/description
 
 # 설명
 
-가상화폐 거래소 설명 문서입니다.
+모의투자 게임 설명 문서입니다.
 
 <br/>
 

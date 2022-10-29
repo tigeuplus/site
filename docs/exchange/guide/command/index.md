@@ -6,7 +6,7 @@ slug: /exchange/guide/command
 
 # 명령어
 
-가상화폐 거래소 명령어 문서입니다
+모의투자 게임 명령어 문서입니다
 
 <br/>
 
